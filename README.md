@@ -1,15 +1,15 @@
 # Promt-engineering
 
-## гайды по промт-инженирингу
+## Гайды по промт-инженирингу
 
-### полезные мануалы
+полезные мануалы
 https://www.promptingguide.ai/ru
 https://learnprompting.org/docs/introduction
 
-### что такое RAG
+что такое RAG
 https://habr.com/ru/amp/publications/779526/
 
-### Prompt evaluations от Anthropics
+Prompt evaluations от Anthropics
 https://github.com/anthropics/courses/tree/master/prompt_evaluations
 
 ## Полезное от OpenAI
@@ -23,15 +23,15 @@ https://platform.openai.com/docs/guides/text-generation/json-mode
 
 ## Статьи по промт-инженирингу 
 
-### обширный и подробный обзор промт-инжениринга с примерами
+обширный и подробный обзор промт-инжениринга с примерами
 https://arxiv.org/abs/2406.06608
-### Исследователи из Microsoft изобрели что-то между RAG и few-shot промптингом 
+Исследователи из Microsoft изобрели что-то между RAG и few-shot промптингом 
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/leveraging-dynamic-few-shot-prompt-with-azure-openai/ba-p/4225235
-### Tree-of-Thought
+Tree-of-Thought
 https://github.com/dave1010/tree-of-thought-prompting
 
 ## Книги
 
-### Hands-On Large Language Models
+Hands-On Large Language Models
 книга: https://learning.oreilly.com/library/view/hands-on-large-language/9781098150952/
 github: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
