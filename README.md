@@ -1,4 +1,4 @@
-# promt-engineering
+# Promt-engineering
 
 ## гайды по промт-инженирингу
 
