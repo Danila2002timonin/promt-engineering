@@ -12,6 +12,15 @@ https://habr.com/ru/amp/publications/779526/
 Prompt evaluations от Anthropics
 https://github.com/anthropics/courses/tree/master/prompt_evaluations
 
+Vision Fine-Tuning для Gpt-4o
+https://encord.com/blog/vision-fine-tuning-with-openais-gpt-4/
+
+Коллекция лучших промптов для Claude
+https://github.com/langgptai/awesome-claude-prompts
+
+Курс по ИИ агентам от HaggingFace
+https://huggingface.us17.list-manage.com/subscribe?u=7f57e683fa28b51bfc493d048&id=9ed45a3ef6
+
 ## Полезное от OpenAI
 https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
 
