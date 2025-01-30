@@ -2,6 +2,9 @@
 
 ## Гайды по промт-инженирингу
 
+база, так сказать, основа:
+https://www.promptingguide.ai/
+
 полезные мануалы
 https://www.promptingguide.ai/ru
 https://learnprompting.org/docs/introduction
