@@ -24,6 +24,12 @@ https://github.com/langgptai/awesome-claude-prompts
 Курс по ИИ агентам от HaggingFace
 https://huggingface.us17.list-manage.com/subscribe?u=7f57e683fa28b51bfc493d048&id=9ed45a3ef6
 
+[Prompt Engineeting от Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
+
+## Немного глубже
+
+[Курс по трансформерам от HaggingFace (включая fine-tuning)](https://huggingface.co/learn/llm-course/en/chapter0/1)
+
 ## Полезное от OpenAI
 https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
 
